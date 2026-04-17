@@ -1,11 +1,13 @@
 # Hi, I'm Soumya Shah 👋
 
-I'm a data professional with a strong foundation in computer science and information systems — passionate about building data pipelines, uncovering insights, and turning complex datasets into decisions that matter.
+Data Engineer & Analyst with experience across healthcare, finance, and marketing - building pipelines that process 100M+ records, models that flag fraud, and dashboards that drive decisions for 500+ stakeholders. I care about data that actually moves the needle.
 
 Currently open to **Data Engineer** and **Data Analyst** roles where I can work on real data problems at scale — from pipeline architecture to analytics and everything in between.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/soumyashahh/)
+
 [![Email](https://img.shields.io/badge/Email-soumyashah14@gmail.com-D14836?style=flat&logo=gmail)](mailto:soumyashah14@gmail.com)
+
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Engineer%20%7C%20Data%20Analyst-brightgreen?style=flat)
 
 ---
